@@ -1,5 +1,10 @@
 {
-  "id": "mode_1",
-  "name": "اسم الزر الأول",
-  "url": "https://www.google.com"
+  "version": 4,
+  "buttons": [
+    {
+      "id": "mode_1",
+      "name": "اسم طريقة التشغيل الأولى",
+      "url": "https://www.google.com/"
+    }
+  ]
 }
