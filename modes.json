@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "buttons": [
+    {
+      "id": "mode_1",
+      "name": {
+        "ar": "طريقة التشغيل الأولى",
+        "vi": "Cách khởi chạy 1",
+        "pt-BR": "Modo de inicialização 1",
+        "hi": "लॉन्च तरीका 1",
+        "en": "Launch Method 1"
+      },
+      "url": "https://example.com/mode-1"
+    },
+    {
+      "id": "mode_2",
+      "name": {
+        "ar": "طريقة التشغيل الثانية",
+        "vi": "Cách khởi chạy 2",
+        "pt-BR": "Modo de inicialização 2",
+        "hi": "लॉन्च तरीका 2",
+        "en": "Launch Method 2"
+      },
+      "url": "https://example.com/mode-2"
+    },
+    {
+      "id": "mode_3",
+      "name": {
+        "ar": "طريقة التشغيل الثالثة",
+        "vi": "Cách khởi chạy 3",
+        "pt-BR": "Modo de inicialização 3",
+        "hi": "लॉन्च तरीका 3",
+        "en": "Launch Method 3"
+      },
+      "url": "https://example.com/mode-3"
+    }
+  ]
+}
