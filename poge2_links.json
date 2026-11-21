@@ -1,0 +1,8 @@
+{
+  "hide_other_webview": true,
+  "links": [
+    { "order": 1, "name": "الموقع الرئيسي", "url": "https://youssef-999-ff.blogspot.com/", "webview": 1 },
+    { "order": 2, "name": "المتجر", "url": "https://youssef-999-ff.blogspot.com/", "webview": 2 },
+    { "order": 3, "name": "القناة", "url": "https://youssef-999-ff.blogspot.com/", "webview": 1 }
+  ]
+}
