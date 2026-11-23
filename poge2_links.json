@@ -19,7 +19,7 @@
     {
       "order": 2,
       "name": {
-        "ar": "صانع السكنات 1",
+        "ar": "صناعة سكنات 1",
         "vi": "Trình tạo Skin 1",
         "pt": "Criador de Skins 1",
         "hi": "स्किन्स मेकर 1",
@@ -32,7 +32,20 @@
     {
       "order": 3,
       "name": {
-        "ar": "صانع السكنات 2",
+        "ar": "طريقة استخدام صناعة سكنات 1",
+        "vi": "Hướng dẫn sử dụng Skin Maker 1",
+        "pt": "Como Usar o Criador de Skins 1",
+        "hi": "स्किन मेकर 1 का उपयोग कैसे करें",
+        "es": "Cómo Usar Skins Maker 1",
+        "en": "How to Use Skins Maker 1"
+      },
+      "url": "https://youtu.be/-B60oUuhMvE?si=NqnjltA7IvEmQ7x2",
+      "page": "Poge3"
+    },
+    {
+      "order": 4,
+      "name": {
+        "ar": "صناعة سكنات 2",
         "vi": "Trình tạo Skin 2",
         "pt": "Criador de Skins 2",
         "hi": "स्किन्स मेकर 2",
@@ -40,6 +53,19 @@
         "en": "Skins Maker 2"
       },
       "url": "https://fishmodz.top/",
+      "page": "Poge3"
+    },
+    {
+      "order": 5,
+      "name": {
+        "ar": "طريقة استخدام صناعة سكنات 2",
+        "vi": "Hướng dẫn sử dụng Skin Maker 2",
+        "pt": "Como Usar o Criador de Skins 2",
+        "hi": "स्किन मेकर 2 का उपयोग कैसे करें",
+        "es": "Cómo Usar Skins Maker 2",
+        "en": "How to Use Skins Maker 2"
+      },
+      "url": "https://youtu.be/A0tSjYjqlIU?si=xngQQptVZPNwf1wt",
       "page": "Poge3"
     }
   ]
