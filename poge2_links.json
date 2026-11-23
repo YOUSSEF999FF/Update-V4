@@ -2,7 +2,6 @@
   "latest_version": 1.0,
   "channel_name": "YOUSSEF 999",
   "channel_url": "https://youtube.com/@youssef_999_v_ff?si=tUgW_o8pC9LhNwzm",
-  "hide_other_webview": true,
   "links": [
     {
       "order": 1,
@@ -15,7 +14,7 @@
         "en": "File Downloader"
       },
       "url": "https://youssef-999-ff.blogspot.com/",
-      "webview": 1
+      "page": "Poge2"
     },
     {
       "order": 2,
@@ -28,7 +27,7 @@
         "en": "Skins Maker 1"
       },
       "url": "https://kenmodz.com/",
-      "webview": 2
+      "page": "Poge3"
     },
     {
       "order": 3,
@@ -41,7 +40,7 @@
         "en": "Skins Maker 2"
       },
       "url": "https://fishmodz.top/",
-      "webview": 2
+      "page": "Poge3"
     }
   ]
 }
