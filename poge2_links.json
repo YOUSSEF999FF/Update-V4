@@ -44,6 +44,33 @@
       },
       "url": "https://youtu.be/-B60oUuhMvE?si=NqnjltA7IvEmQ7x2",
       "external": true
+    },
+    {
+      "order": 4,
+      "name": {
+        "ar": "صناعة سكنات 2",
+        "vi": "Trình tạo Skin 2",
+        "pt": "Criador de Skins 2",
+        "hi": "स्किन्स मेकर 2",
+        "es": "Creador de Skins 2",
+        "en": "Skins Maker 2"
+      },
+      "url": "https://fishmodz.top/",
+      "page": "Poge4",
+      "external": false
+    },
+    {
+      "order": 5,
+      "name": {
+        "ar": "طريقة صناعة سكنات 2",
+        "vi": "Hướng dẫn tạo Skin 2",
+        "pt": "Como Criar Skins 2",
+        "hi": "स्किन्स मेकर 2 का तरीका",
+        "es": "Cómo Crear Skins 2",
+        "en": "How to Make Skins 2"
+      },
+      "url": "https://youtu.be/A0tSjYjqlIU?si=WQAMiA2p6DpJsqJG",
+      "external": true
     }
   ]
 }
