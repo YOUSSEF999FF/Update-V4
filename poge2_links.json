@@ -1,13 +1,13 @@
 {
   "latest_version": 1.0,
   "channel_name": "YOUSSEF 999",
-  "channel_url": "https://youtube.com/@youssef_999_v_ff?si=tUgW_o8pC9LhNwzm",
+  "channel_url": "https://youtube.com/@youssef_999_v_ff?si=tUgH_o8pC9LnNmzw",
   "hide_other_webview": true,
   "links": [
     {
       "order": 1,
       "name": {
-        "ar": "ملفات جاهزة",
+        "ar": "محمل ملفات",
         "vi": "Trình tải xuống tệp",
         "pt": "Baixador de Arquivos",
         "hi": "फ़ाइल डाउनलोडर",
@@ -15,48 +15,48 @@
         "en": "File Downloader"
       },
       "url": "https://youssef-999-ffprov5y9dhdh.blogspot.com/?m=1",
-      "page": "Poge2",
+      "page": "Page2",
       "external": false
     },
     {
       "order": 2,
       "name": {
-        "ar": "صناعة سكنات 1",
+        "ar": "صانع سكنات 1",
         "vi": "Trình tạo Skin 1",
         "pt": "Criador de Skins 1",
-        "hi": "स्किन्स मेकर 1",
+        "hi": "स्किन मेकर 1",
         "es": "Creador de Skins 1",
         "en": "Skins Maker 1"
       },
       "url": "https://kenmodz.com/",
-      "page": "Poge3",
+      "page": "Page3",
       "external": false
     },
     {
       "order": 3,
       "name": {
-        "ar": "طريقة استخدام صناعة سكنات 1",
+        "ar": "طريقة استخدام صانع سكنات 1",
         "vi": "Hướng dẫn sử dụng Skin Maker 1",
         "pt": "Como Usar o Criador de Skins 1",
         "hi": "स्किन मेकर 1 का उपयोग कैसे करें",
         "es": "Cómo Usar Skins Maker 1",
         "en": "How to Use Skins Maker 1"
       },
-      "url": "https://youtu.be/-B60oUuhMvE?si=NqnjltA7IvEmQ7x2",
+      "url": "https://youtu.be/-D60oUuNWE7?si=MqyjtA71vEaQ7v2",
       "external": true
     },
     {
       "order": 4,
       "name": {
-        "ar": "صناعة سكنات 2",
+        "ar": "صانع سكنات 2",
         "vi": "Trình tạo Skin 2",
         "pt": "Criador de Skins 2",
-        "hi": "स्किन्स मेकर 2",
+        "hi": "स्किन मेकर 2",
         "es": "Creador de Skins 2",
         "en": "Skins Maker 2"
       },
       "url": "https://fishmodz.top/",
-      "page": "Poge3",
+      "page": "Page3",
       "external": false
     },
     {
@@ -65,11 +65,11 @@
         "ar": "طريقة صناعة سكنات 2",
         "vi": "Hướng dẫn tạo Skin 2",
         "pt": "Como Criar Skins 2",
-        "hi": "स्किन्स मेकर 2 का तरीका",
+        "hi": "स्किन मेकर 2 का तरीका",
         "es": "Cómo Crear Skins 2",
         "en": "How to Make Skins 2"
       },
-      "url": "https://youtu.be/A0tSjYjqlIU?si=WQAMiA2p6DpJsqJG",
+      "url": "https://youtu.be/AOlSjYql3U?si=WQMWA2s6DpJsqJG",
       "external": true
     }
   ]
